@@ -1,5 +1,7 @@
 # FileSystem
 
+This is a test application for managing file system using txt files as an example. For filename search Boyer Moore algorithm was used.
+
 The folder "MyFileSys" contains the main solution. It uses a .lib file obtained from the folder "MyFileSysLib"
 "MyFileSysLib" contains static library files, including the ".cpp" and ".h" files used to build the static library for "MyFileSys"
 
