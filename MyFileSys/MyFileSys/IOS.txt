@@ -1,5 +1,0 @@
-Assignment1.txt
-Not_a_virus.txt
-pipirka.txt
-321.test
-Safari
